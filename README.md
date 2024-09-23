@@ -1,3 +1,6 @@
+# <h1 align="center">Hi, I'm Ayush Kumar </h1>
+ <h3 align="center">Aspiring Software Developer</h3>
+  
 # 💫 About Me:
 🔭 I’m currently working on Mern Stack Projects.<br>👯 I’m looking to collaborate on projects.<br>🤝 I’m looking for help with Referrals.<br>🌱 I’m currently learning DSA & Development.<br>💬 Ask me about my experiences.<br>⚡ Fun fact: I like to do nothing.
 
